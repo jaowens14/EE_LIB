@@ -1,0 +1,345 @@
+(footprint "87833-1019"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "87833-1020")
+	(tags "Connector")
+	(property "Reference" "J10"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "50a07bb4-08e1-4995-8a3c-37b799715541")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "87833-1019"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2aa8285b-48a2-421a-95c2-292dc2c65aa6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "87833-1019"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ee8c814-250c-4ed6-a9aa-2cb599e7afb9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.molex.com/pdm_docs/sd/878331019_sd.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f94be20-9a44-41e1-a438-eb4dca927b18")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Headers & Wire Housings MGrid Hdr Shrd RA /S tdf GFLF 10Ckt"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e29d461-90d0-4ff6-864d-b5d0c3354723")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "6.3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c7a7e54-50b5-4036-9f75-1d89302b50ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "538-87833-1019"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "053c74ba-76f3-40cd-b722-ecff96500f13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/87833-1019?qs=Vr3ZXvgdfhb4usxcxk6R%2Fg%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0e7e509-e0d8-4f0f-8edd-20195ba6e56d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Molex"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0372503-de1f-47fe-8166-47252037f3e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "87833-1019"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2554b1a-870f-40bf-89e6-f9d9de7a3a1b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.325 -8.4)
+		(end 10.525 -8.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7bd32f82-90a9-4a9d-b2e9-9eba1cc74c21")
+	)
+	(fp_line
+		(start -2.325 0)
+		(end -2.325 -8.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6a3055e8-4012-41a7-8c2d-3dbde343331a")
+	)
+	(fp_line
+		(start 10.525 -8.4)
+		(end 10.525 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a9525ab2-dc57-40ae-9090-436def33aaa1")
+	)
+	(fp_line
+		(start -2.575 -8.65)
+		(end -2.575 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a9cf0e98-c614-4336-bc1d-4ef82aabf0e6")
+	)
+	(fp_line
+		(start -2.575 1.25)
+		(end 10.775 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "484cad4a-bb56-4e2a-9f9a-41d4804b7167")
+	)
+	(fp_line
+		(start 10.775 -8.65)
+		(end -2.575 -8.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6a04d48b-abac-4f80-bc1f-1a5fc22f2ff7")
+	)
+	(fp_line
+		(start 10.775 1.25)
+		(end 10.775 -8.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a437004e-cbe3-456a-b55f-3ed2e8d7dd5b")
+	)
+	(fp_line
+		(start -2.325 -8.4)
+		(end 10.525 -8.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9c8f8152-9036-4af6-9482-1f4921ae73b3")
+	)
+	(fp_line
+		(start -2.325 -2)
+		(end -2.325 -8.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1a25a040-7c46-462f-88c7-b0750ddc7ae0")
+	)
+	(fp_line
+		(start 10.525 -8.4)
+		(end 10.525 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "85854e37-dfa4-47ec-8eb9-893a85d0b696")
+	)
+	(fp_line
+		(start 10.525 -2)
+		(end -2.325 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f4641ecf-ff7f-4ffd-8b7c-9d9f4a873bd0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "70b29277-49c0-4034-9a0f-5751b5c2bfe5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5b0f2142-9274-41ef-a9f9-1ebc40673a2f")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -2)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "360bed89-00a6-4f56-bf28-264d44ecf7a0")
+	)
+	(pad "3" thru_hole circle
+		(at 2 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2f229ce7-db38-4aff-bb2a-f682a8c4a85a")
+	)
+	(pad "4" thru_hole circle
+		(at 2 -2)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ca0801f4-f060-4306-ba25-2083c8bded5d")
+	)
+	(pad "5" thru_hole circle
+		(at 4 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "75aaa79a-7999-48b3-aea5-315744954fa5")
+	)
+	(pad "6" thru_hole circle
+		(at 4 -2)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "948c87b2-bd36-47ba-b493-1a94d368e5b1")
+	)
+	(pad "7" thru_hole circle
+		(at 6 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bc338f6a-44c0-49bd-a79e-d82fc014066f")
+	)
+	(pad "8" thru_hole circle
+		(at 6 -2)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "581a679f-aaf1-48cc-a327-1638faa59c9e")
+	)
+	(pad "9" thru_hole circle
+		(at 8 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ba2a303a-b5f4-4936-95ef-2b1fe000002d")
+	)
+	(pad "10" thru_hole circle
+		(at 8 -2)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1f01c0a6-82ea-44fa-980b-58a814e9e458")
+	)
+	(model "C:/Users/jaowe/Documents/Projects/ELECTRONICS LIBRARY/avid_steps/87833-1019.stp"
+		(offset
+			(xyz 3.949999988 5.189999979 3.150000048)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

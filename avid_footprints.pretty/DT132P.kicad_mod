@@ -1,0 +1,505 @@
+(footprint "DT132P"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "DT13-2P")
+	(tags "Connector")
+	(property "Reference" "J3"
+		(at -12.075 2.73 180)
+		(layer "F.SilkS")
+		(uuid "7a09d0aa-5b72-4e5d-b6a3-4163c882816e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "DT13-2P"
+		(at -12.075 2.73 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "10fbba29-b5d4-4a72-9ea3-b8b12b409277")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "DT132P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc2644c6-056e-4f72-98be-1f9490aa5244")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773962-8&DocType=Data%20Sheet&DocLang=English&PartCntxt=DT13-2P&DocFormat=pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fbfa4d5d-2be5-4811-9fa6-afb808d7068a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Body Features: Primary Product Color Gray | Configuration Features: Number of Sections 1 | PCB Mount Orientation Right Angle | Number of Positions 2 | Number of Signal Positions 2 | Number of Rows 1 | Contact Features: Contact Type Pin | Mating Pin Diameter 1.59 MM | Contact Mating Area Plating Material Nickel | Contact Current Rating (Max) 13 AMP | Mating Pin Diameter .063 INCH | Contact Size Size 16 | Dimensions: Connector Width 35.31 MM | Profile Height from PCB 1.08 INCH | PCB Thickness (Recommended) .0"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08241077-2ee8-41f1-a594-8d07a1cc84b8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "27.43"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb1ed7c5-6db3-4774-b708-c886f1d4cbd3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "571-DT13-2P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "886d8ae3-5990-4451-9af4-96b8ceb2453f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DT13-2P?qs=vkMqrgFpRaiZ8Y45n18x4A%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3817173-f01d-4646-8bf1-fc65a6f22f2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "TE Connectivity"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3bd349a-30f7-4a50-81bf-45011854beb5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "DT13-2P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a496cbc0-badf-47cf-b60d-e369a82fc1d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -30.11 -5.78)
+		(end -15.5 -5.78)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3b53ef3-831a-4962-bab5-aa75b854f9a2")
+	)
+	(fp_line
+		(start -30.11 11.23)
+		(end -30.11 -5.78)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9680aeb2-afea-4eda-b038-9c4081100b94")
+	)
+	(fp_line
+		(start -15.5 -14.925)
+		(end 0.2 -14.925)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "66c8ed3b-b23e-4c9b-884c-d95c8f481d85")
+	)
+	(fp_line
+		(start -15.5 -5.78)
+		(end -15.5 -14.925)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c15c7818-d198-412d-b72c-358b77de1a4d")
+	)
+	(fp_line
+		(start -15.5 11.23)
+		(end -30.11 11.23)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d580d20f-bcea-4292-875d-b054582a5fe6")
+	)
+	(fp_line
+		(start -15.5 20.385)
+		(end -15.5 11.23)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "258da956-7613-4fb1-ba38-9bdb3ba2a505")
+	)
+	(fp_line
+		(start 0.2 -14.925)
+		(end 0.2 -10.49)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "760db328-b630-4f00-b5e1-cafa6a7bc0b9")
+	)
+	(fp_line
+		(start 0.2 -10.49)
+		(end 5.96 -10.49)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c6aab084-291c-4e53-a741-f4b76b79f406")
+	)
+	(fp_line
+		(start 1.2 15.95)
+		(end 1.2 20.385)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3db32d74-00aa-460f-9f19-4011e17485a4")
+	)
+	(fp_line
+		(start 1.2 20.385)
+		(end -15.5 20.385)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3d814980-ef35-45ce-8e83-9a49d18df9ea")
+	)
+	(fp_line
+		(start 5.96 -10.49)
+		(end 5.96 15.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3cbf2eb3-01d1-4255-8a80-2c51bb243b91")
+	)
+	(fp_line
+		(start 5.96 15.95)
+		(end 1.2 15.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a80c59bf-ee35-4184-9ad5-af21992eac1b")
+	)
+	(fp_line
+		(start -31.11 -15.925)
+		(end 6.96 -15.925)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f3a0a219-b5b8-4707-a6b0-ce038056e392")
+	)
+	(fp_line
+		(start -31.11 21.385)
+		(end -31.11 -15.925)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fc698cbf-e5e3-46c4-9ccb-2b68f8c91586")
+	)
+	(fp_line
+		(start 6.96 -15.925)
+		(end 6.96 21.385)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "88320547-0b15-42d5-b00a-398aa4380368")
+	)
+	(fp_line
+		(start 6.96 21.385)
+		(end -31.11 21.385)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d30eef30-2bed-46ee-bcf2-d368db09cf49")
+	)
+	(fp_line
+		(start -30.11 -5.78)
+		(end -15.5 -5.78)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "572064fe-6a13-4dfc-96f8-1d0657e92c7b")
+	)
+	(fp_line
+		(start -30.11 11.24)
+		(end -30.11 -5.78)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6529ab25-feb5-4c47-868d-c5c160cc3366")
+	)
+	(fp_line
+		(start -15.5 -14.925)
+		(end -15.5 20.385)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "439ac1af-d244-4c9c-b365-f65b59d9e1a6")
+	)
+	(fp_line
+		(start -15.5 11.24)
+		(end -30.11 11.24)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "16f0e3bc-60e0-4f93-8a09-8e53d3c80a8b")
+	)
+	(fp_line
+		(start -15.5 20.385)
+		(end 1.2 20.385)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "76535af7-25fe-4670-9b1a-f0ce026786d1")
+	)
+	(fp_line
+		(start -8.8 -6.425)
+		(end -8.8 11.885)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "180c2daf-01ba-4021-83c5-d536cbae41fc")
+	)
+	(fp_line
+		(start -8.8 11.885)
+		(end -0.8 11.885)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "073d81a4-25b6-4d8e-877d-ab4f9f4b1642")
+	)
+	(fp_line
+		(start -0.8 -10.49)
+		(end 5.96 -10.49)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "583df1a3-d79f-4824-b5ae-713a384c2718")
+	)
+	(fp_line
+		(start -0.8 -6.425)
+		(end -8.8 -6.425)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "29ad8e15-4641-4aee-9dda-cc25ea41b319")
+	)
+	(fp_line
+		(start -0.8 15.95)
+		(end -0.8 -10.49)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "77774578-2027-489d-b7dd-8abfc4bb2cdf")
+	)
+	(fp_line
+		(start 0.2 -14.925)
+		(end -15.5 -14.925)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "902c29d0-b5f9-4896-b26b-8d390e844c4f")
+	)
+	(fp_line
+		(start 0.2 -10.49)
+		(end 0.2 -14.925)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2698465e-0740-4ddf-929d-cd8433deb23b")
+	)
+	(fp_line
+		(start 1.2 20.385)
+		(end 1.2 15.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "81740612-fee6-4e5e-a6c9-acfced27f503")
+	)
+	(fp_line
+		(start 5.96 -10.49)
+		(end 5.96 15.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "41664ea9-2362-4e72-9a50-632327a7e655")
+	)
+	(fp_line
+		(start 5.96 15.95)
+		(end -0.8 15.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "29d695e8-50f6-4354-9cbe-141a7eee241c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -12.075 2.73 180)
+		(layer "F.Fab")
+		(uuid "c6a8c162-65f6-4a70-9e0d-bfd219743203")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.34 2.34)
+		(drill 1.56)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4de677b5-25fa-477f-8e3c-90562ce40469")
+	)
+	(pad "2" thru_hole circle
+		(at 0 5.46)
+		(size 2.34 2.34)
+		(drill 1.56)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "45b00f36-b267-48a7-a5cc-ba4b5475617b")
+	)
+	(pad "3" thru_hole circle
+		(at 1.9 -6.425)
+		(size 4.485 4.485)
+		(drill 2.99)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "30509954-f6b2-49f7-a243-b0f74a40545e")
+	)
+	(pad "4" thru_hole circle
+		(at 1.9 11.885)
+		(size 4.485 4.485)
+		(drill 2.99)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1baf1fad-fe3e-4668-9734-2532d81488fd")
+	)
+	(pad "5" thru_hole circle
+		(at -6.1 2.73)
+		(size 4.485 4.485)
+		(drill 2.99)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a6ea8132-d3f7-44bb-8fe8-c1322d88aea5")
+	)
+	(model "C:/Users/jaowe/Documents/Projects/ELECTRONICS LIBRARY/avid_steps/DT13-2P.stp"
+		(offset
+			(xyz -30.11000016 -2.729999978 14.06000021)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+)

@@ -1,0 +1,329 @@
+(footprint "590"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "590-1")
+	(tags "Undefined or Miscellaneous")
+	(property "Reference" "U2"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "223e60eb-8257-4b23-9b3c-b3207e227056")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "590"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f9c69139-7423-4432-b95c-e8ca8aa6d9d0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "590"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "69fe8fde-4450-41a8-81c8-aa80bde648af")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.keyelco.com/product-pdf.cfm?p=829"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f883b7dd-d441-4f85-b352-7e27081afed2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "KEYSTONE - 590 - BATTERY HOLDER, AA/N, 1WAY"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c0b548e-a732-42fa-a902-fc70d9dc29d7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "12.56"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c56a4ff-9351-4c30-9e65-ff1f8e829b37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "534-590"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5df206db-8329-4a79-91ff-711048b34f0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/590?qs=w4ABFRoM%2FL95mzCRODM6BA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "666f1945-f7e2-48e6-8ac6-79fad3ceaee7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Keystone Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b0f73474-2933-433c-8f12-2ad940ceb4bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "590"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a61d1ae4-f828-4564-81f9-ffdc830d1b70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.565 -3.635)
+		(end 4.565 -3.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5215b238-55bb-4009-9d68-975005ee0736")
+	)
+	(fp_line
+		(start -4.565 -1.795)
+		(end -4.565 -3.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "999281db-6602-4544-8b02-d4150c4d9918")
+	)
+	(fp_line
+		(start -4.565 1.205)
+		(end -4.565 2.705)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6ae10ee8-fe5e-4ea0-bcf0-ec8408f9a740")
+	)
+	(fp_line
+		(start -4.565 2.705)
+		(end -1.5 2.705)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "294a1848-75b8-4c77-8f82-d33a493bb770")
+	)
+	(fp_line
+		(start 1.5 2.705)
+		(end 4.565 2.705)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9472082f-a410-4962-b446-97f75fe2503a")
+	)
+	(fp_line
+		(start 4.565 -3.635)
+		(end 4.565 -1.795)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ffdeeeee-9639-49dd-abd6-98d3e93a6d2f")
+	)
+	(fp_line
+		(start 4.565 2.705)
+		(end 4.565 1.205)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9fd72d17-6d5a-4b94-b667-b44a53ea4985")
+	)
+	(fp_line
+		(start -6.495 -4.635)
+		(end 6.495 -4.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4ec57352-967f-4175-aa60-72399b38ef49")
+	)
+	(fp_line
+		(start -6.495 4.635)
+		(end -6.495 -4.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "49461cfb-8e5d-42bb-8f07-7806e4c70d6a")
+	)
+	(fp_line
+		(start 6.495 -4.635)
+		(end 6.495 4.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "60c1bf45-1bab-4ac9-9056-9dbae744d0ad")
+	)
+	(fp_line
+		(start 6.495 4.635)
+		(end -6.495 4.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1bf9bed3-dd92-4ce7-a90e-bfa5265fb0b3")
+	)
+	(fp_line
+		(start -4.565 -3.635)
+		(end 4.565 -3.635)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c65f71d6-f5e7-4890-97d7-59ae2be15623")
+	)
+	(fp_line
+		(start -4.565 2.705)
+		(end -4.565 -3.635)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fd37bbd8-de4e-4bc2-b521-939e62bcb6c6")
+	)
+	(fp_line
+		(start 4.565 -3.635)
+		(end 4.565 2.705)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a7cf70de-2249-4599-a516-22d51344f0f4")
+	)
+	(fp_line
+		(start 4.565 2.705)
+		(end -4.565 2.705)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6f740af9-23f2-48c2-8047-82baf65be237")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "9bb2bef5-7039-43b0-9c7f-96255a7fe53b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -4.445 -0.465)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d7e06bf3-ce78-4cb4-b8b3-ef3bc97d007c")
+	)
+	(pad "2" thru_hole circle
+		(at 0 2.585)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c96e9bdf-c8e6-4dc3-9d7a-edc9fa977fce")
+	)
+	(pad "3" thru_hole circle
+		(at 4.445 -0.465)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "88b54956-90d9-4245-8363-862824472499")
+	)
+	(model "C:/Users/jaowe/Documents/Projects/ELECTRONICS LIBRARY/avid_steps/590.stp"
+		(offset
+			(xyz -4.269999917 3.650000041 0.559999994)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+)

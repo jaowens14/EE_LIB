@@ -1,0 +1,272 @@
+(footprint "WR-FSH_THT_2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WR-FSH_THT_2")
+	(tags "Undefined or Miscellaneous")
+	(property "Reference" "U4"
+		(at -0.662 -0.1 0)
+		(layer "F.SilkS")
+		(uuid "b91fa98b-8c6b-4441-8e9d-1f188f04a425")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "696108003002"
+		(at -0.662 -0.1 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "fc655675-f504-447d-909e-0f9e080e7cc9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "WR-FSH_THT_2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "31fefdfa-b045-42fe-bef0-fbcd6bf84166")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "http://katalog.we-online.de/em/datasheet/696108003002.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "783f15df-18d7-43d5-b402-d02bb6b46c03")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a82c508b-546a-4611-bdf5-0a1314edc210")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb3728e0-3f38-4961-b96b-cd021628d222")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Wurth Elektronik"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "454a2345-627d-4b0d-85e2-23f2fcff2b9c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "696108003002"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87ed66d0-fd3d-44e7-94d9-abe3d7a63030")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Mouser Part Number" "710-696108003002"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "799dbb14-f4ab-492f-8237-b0c792985438")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/696108003002?qs=%252BEew9%252B0nqrCCQeoUrFurBg%3D%3D"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8e41bee-0fd0-4660-bb80-be670c9a73d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -12.2 -4.7)
+		(end -12.2 -1.023)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "daf843a8-154f-4b30-a43a-7ffb82644be2")
+	)
+	(fp_line
+		(start -12.2 -4.7)
+		(end 12.2 -4.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "68eca63f-a67b-4610-96a7-a1ef08a23b99")
+	)
+	(fp_line
+		(start -12.2 4.7)
+		(end -12.2 1.023)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f2baea8-face-48c3-a05c-d0062847b9cf")
+	)
+	(fp_line
+		(start 12.2 -4.7)
+		(end 12.2 -1.023)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0625466-7b0e-45b1-a153-ed63bbf09fbb")
+	)
+	(fp_line
+		(start 12.2 4.7)
+		(end -12.2 4.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "06c0914c-bb41-4d2b-b4ef-0e9a8d3e69b5")
+	)
+	(fp_line
+		(start 12.2 4.7)
+		(end 12.2 1.023)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0fafbdc6-312a-40a5-bbe7-52d649483d77")
+	)
+	(fp_circle
+		(center -12.887 -0.113)
+		(end -12.887 -0.04651)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "157da011-50c0-47ea-a794-bf1a6f0ea76d")
+	)
+	(fp_line
+		(start -12.2 -4.7)
+		(end 12.2 -4.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5d1ea353-a88f-409c-b10f-78dcd659ac61")
+	)
+	(fp_line
+		(start -12.2 4.7)
+		(end -12.2 -4.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1fb4f09c-aa82-41bc-b089-d7d2b570c2d0")
+	)
+	(fp_line
+		(start 12.2 -4.7)
+		(end 12.2 4.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "78b82209-bbfc-4759-b574-d13e4689d024")
+	)
+	(fp_line
+		(start 12.2 4.7)
+		(end -12.2 4.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f097327f-4a52-4e97-932b-ab8741c9ebc2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.662 -0.1 0)
+		(layer "F.Fab")
+		(uuid "cf9630df-973c-4816-8875-1ea45257d039")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -11.3 0)
+		(size 2.3 2.3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "331917b1-2d77-4bc4-b62a-ded8f13a8ee6")
+	)
+	(pad "2" thru_hole circle
+		(at 11.3 0)
+		(size 2.3 2.3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "da25fafc-e87f-4d2a-8ba7-86e70010a3fe")
+	)
+	(model "C:/Users/jaowe/Documents/Projects/ELECTRONICS LIBRARY/avid_steps/696108003002.stp"
+		(offset
+			(xyz 0 -4.699999739 1.519999958)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

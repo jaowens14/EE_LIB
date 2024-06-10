@@ -1,0 +1,371 @@
+(footprint "UWS-510-Q12P-C"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "UWS-15/3-Q12P-C-3")
+	(tags "Power Supply")
+	(property "Reference" "PS2"
+		(at 13.12 7.62 0)
+		(layer "F.SilkS")
+		(uuid "123bde75-6e77-488e-8c96-5db9970ffef3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "UWS-510-Q12P-C"
+		(at 13.12 7.62 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "21fece29-427d-40a5-9b04-073299ed4f2d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "UWS-510-Q12P-C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21423e16-0c26-432f-bb11-8ee8c35ab447")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/UWS-15_3-Q12P-C.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57933f09-5ee7-42ab-b544-00896902e2fd")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c1e9cc9-9f08-45f6-8722-ad2ea5c0884a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "9.1"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3838a9f2-1fe0-4b5e-b53b-f42e69a3eb42")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Murata Electronics"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c647bfc2-d6f0-470f-9d86-0a0cf0d3f4b1")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "UWS-15/3-Q12P-C"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5179fe1c-c023-4314-9edd-821b627c6d97")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Mouser Part Number" "580-UWS-15/3-Q12P-C"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "99ad3224-5ca8-4f07-92c2-0a8130ceef6a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/UWS-15-3-Q12P-C?qs=XeJtXLiO41RZdoTc3dOuwg%3D%3D"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd9ffe03-6cad-40d3-8d26-fd49e31392f7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.23 0)
+		(end -4.23 0)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4515887e-0dae-42cd-813a-266b66778a66")
+	)
+	(fp_line
+		(start -4.03 0)
+		(end -4.03 0)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd8949bf-604b-496a-a975-b217f4451abd")
+	)
+	(fp_line
+		(start -2.53 -3.83)
+		(end 30.47 -3.83)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e9983178-a3fa-4f5e-89d8-2b32c5704643")
+	)
+	(fp_line
+		(start -2.53 19.05)
+		(end -2.53 -3.83)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "966bd1bd-c1c8-40be-8f21-28efdccad870")
+	)
+	(fp_line
+		(start 30.47 -3.83)
+		(end 30.47 19.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fa58c6f1-b6bb-47c3-9afb-e515d4436d3b")
+	)
+	(fp_line
+		(start 30.47 19.05)
+		(end -2.53 19.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2054c2f4-bd11-4034-9bf7-065d6379128b")
+	)
+	(fp_arc
+		(start -4.23 0)
+		(mid -4.13 -0.1)
+		(end -4.03 0)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1f8747dc-6d04-48a2-bc15-165056fad7be")
+	)
+	(fp_arc
+		(start -4.03 0)
+		(mid -4.13 0.1)
+		(end -4.23 0)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cd99d2f1-e893-42a2-b222-2518eee74ff1")
+	)
+	(fp_line
+		(start -5.23 -4.83)
+		(end 31.47 -4.83)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "46d2e8bb-f724-478e-92bc-7154bbf4546c")
+	)
+	(fp_line
+		(start -5.23 20.07)
+		(end -5.23 -4.83)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "09225813-97e5-4048-9b95-2eed8b00dd96")
+	)
+	(fp_line
+		(start 31.47 -4.83)
+		(end 31.47 20.07)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "728199b9-b8f8-4901-bb7a-ee0e2db3beda")
+	)
+	(fp_line
+		(start 31.47 20.07)
+		(end -5.23 20.07)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a52107b3-d216-41a5-b44a-fb2a609d9939")
+	)
+	(fp_line
+		(start -2.53 -3.83)
+		(end 30.47 -3.83)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8636ff12-cfc4-4fef-9462-4bc1da6e61a9")
+	)
+	(fp_line
+		(start -2.53 19.07)
+		(end -2.53 -3.83)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b7bc2a18-5920-421d-9a88-b28036c60f25")
+	)
+	(fp_line
+		(start 30.47 -3.83)
+		(end 30.47 19.07)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3701cafc-b635-4365-b9c4-aa15bfaea005")
+	)
+	(fp_line
+		(start 30.47 19.07)
+		(end -2.53 19.07)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "196414c0-a9ed-41c3-a04e-6a8a5695c077")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 13.12 7.62 0)
+		(layer "F.Fab")
+		(uuid "1f6f8174-5f65-4b7f-a0d6-a2b9e36ce1bd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.355 2.355)
+		(drill 1.57)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "10d2d367-0c61-4924-880c-b623f7cfcfe3")
+	)
+	(pad "2" thru_hole circle
+		(at 0 7.62)
+		(size 2.355 2.355)
+		(drill 1.57)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2edcd266-9fec-411a-a242-4f7fefee8db9")
+	)
+	(pad "3" thru_hole circle
+		(at 0 15.24)
+		(size 2.355 2.355)
+		(drill 1.57)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7159952f-708e-4829-9d57-22982eb3a2da")
+	)
+	(pad "4" thru_hole circle
+		(at 27.94 15.24)
+		(size 3.195 3.195)
+		(drill 2.13)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2c8b8daa-8692-4112-bc09-c99f4bdd57e8")
+	)
+	(pad "5" thru_hole circle
+		(at 27.94 11.43)
+		(size 2.355 2.355)
+		(drill 1.57)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0efc81f2-8d6a-47a8-9436-2c9a1fb3fefe")
+	)
+	(pad "6" thru_hole circle
+		(at 27.94 7.62)
+		(size 2.355 2.355)
+		(drill 1.57)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8657a2bd-fd2f-47b7-ba4c-88f24d791a20")
+	)
+	(pad "7" thru_hole circle
+		(at 27.94 3.81)
+		(size 2.355 2.355)
+		(drill 1.57)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f8c4a85f-932a-41db-baf7-a81f64285239")
+	)
+	(pad "8" thru_hole circle
+		(at 27.94 0)
+		(size 3.195 3.195)
+		(drill 2.13)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4005d5a6-2339-4503-822f-3fbdfbe94e08")
+	)
+	(model "C:/Users/jaowe/Documents/Projects/ELECTRONICS LIBRARY/avid_steps/UWS-510-Q12P-C.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
